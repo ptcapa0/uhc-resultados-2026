@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.xlsx
+*.xls
+*.csv
+*.pdf
+.DS_Store
+notes-export*.json
